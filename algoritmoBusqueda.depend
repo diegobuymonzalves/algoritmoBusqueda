@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1604181694 source:c:\users\marni\documents\develop\cpp\algoritmobusqueda\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<array>
+	<fcntl.h>
+	<io.h>
+	"data.h"
+
+1604180701 c:\users\marni\documents\develop\cpp\algoritmobusqueda\data.h
+	<string>
+	<array>
+	<algorithm>
+
